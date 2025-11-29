@@ -1,0 +1,44 @@
+[
+  {
+    "title": "The Future of AI in Software Development",
+    "speakers": ["Alex Chen"],
+    "category": ["AI", "Development", "Future Tech"],
+    "duration": "1 hour",
+    "description": "A deep dive into how artificial intelligence is reshaping the landscape of software engineering, from automated code generation to intelligent testing."
+  },
+  {
+    "title": "Mastering Modern CSS Layouts",
+    "speakers": ["Brenda Smith"],
+    "category": ["CSS", "Frontend", "Web Design"],
+    "duration": "1 hour",
+    "description": "Explore the power of Flexbox and Grid to create complex, responsive, and maintainable web layouts with ease."
+  },
+  {
+    "title": "Building Scalable APIs with GraphQL",
+    "speakers": ["Carlos Diaz", "Diana Ray"],
+    "category": ["API", "GraphQL", "Backend"],
+    "duration": "1 hour",
+    "description": "Learn how to move beyond REST and build flexible, powerful, and efficient APIs using GraphQL for modern applications."
+  },
+  {
+    "title": "Cybersecurity in a Cloud-Native World",
+    "speakers": ["Frank Miller"],
+    "category": ["Security", "Cloud", "DevOps"],
+    "duration": "1 hour",
+    "description": "An essential guide to securing applications and infrastructure in a world dominated by containers, microservices, and cloud platforms."
+  },
+  {
+    "title": "The Rise of WebAssembly",
+    "speakers": ["Grace Hopper", "Ken Thompson"],
+    "category": ["WebAssembly", "Performance", "Frontend"],
+    "duration": "1 hour",
+    "description": "Discover how WebAssembly is enabling near-native performance in web applications and what it means for the future of the web."
+  },
+  {
+    "title": "Quantum Computing: The Next Frontier",
+    "speakers": ["Heidi Lamarr"],
+    "category": ["Quantum", "Future Tech", "Science"],
+    "duration": "1 hour",
+    "description": "A gentle introduction to the mind-bending world of quantum computing and its potential to solve some of the world's most complex problems."
+  }
+]
